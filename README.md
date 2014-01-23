@@ -1,5 +1,10 @@
 # Installation
 
+0. Clone repo:
+```
+$ git clone https://github.com/iziteq/vimfiles.git ~/.vim
+```
+
 1. Set up `Vundle`:
 
 ```
