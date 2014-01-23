@@ -10,6 +10,6 @@ $ git clone https://github.com/iziteq/vimfiles.git ~/.vim
 $ git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
 ```
 
-2. Launch `vim`, run `:BundleInstall`
+2. Create `~/.vimrc` file and put `source ~/.vim/vimrc` there.
 
-3. Create `~/.vimrc` file and put `source ~/.vim/vimrc` there.
+3. Launch `vim`, run `:BundleInstall`
